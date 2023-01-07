@@ -1,0 +1,11 @@
+:root {
+  --wrapper-border-radius: 12px;
+  --wrapper-padding: 12px;
+  --wrapper-background-color: #e0e0e0;
+
+  --circle-width: 30px;
+  --circle-radius: calc(var(--circle-width) / 2);
+  --circle-border-width: 4px;
+  --circle-bottom-margin: 8px;
+  --circle-font-size: 24px;
+}
